@@ -1,3 +1,3 @@
-# ML Summer School 19
+# ML Summer School 20
 
 Course materials
